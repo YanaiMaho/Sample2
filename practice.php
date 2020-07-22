@@ -10,11 +10,11 @@ echo $array_month[7]."\n";
 
 $hello = 'Hello,';
 $name = 'Maho';
-$world = '’s world';
+$world = '’s World';
 echo $hello.$name.$world."\n";
 
 $tech_boost = 'tech';
-$tech_boost .= 'boost';
+$tech_boost .= '_boost';
 echo $tech_boost."\n";
 
 $calendar_2018 = [
